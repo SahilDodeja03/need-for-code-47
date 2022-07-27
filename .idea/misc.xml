@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Neeta Narang/AndroidStudioProjects/StudentProgressReport/app/src/main/res/layout/activity_admin_page.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Neeta Narang/AndroidStudioProjects/StudentProgressReport/app/src/main/res/layout/activity_graph.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Neeta Narang/AndroidStudioProjects/StudentProgressReport/app/src/main/res/layout/activity_login_page.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Neeta Narang/AndroidStudioProjects/StudentProgressReport/app/src/main/res/layout/activity_main2.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Neeta Narang/AndroidStudioProjects/StudentProgressReport/app/src/main/res/layout/activity_main21.xml" value="0.1" />
+        <entry key="..\:/Users/Neeta Narang/AndroidStudioProjects/StudentProgressReport/app/src/main/res/layout/activity_particular_graph.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Neeta Narang/AndroidStudioProjects/StudentProgressReport/app/src/main/res/layout/activity_piechartgraph.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Neeta Narang/AndroidStudioProjects/StudentProgressReport/app/src/main/res/layout/activity_student_details.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Neeta Narang/AndroidStudioProjects/StudentProgressReport/app/src/main/res/layout/activity_student_login.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Neeta Narang/AndroidStudioProjects/StudentProgressReport/app/src/main/res/layout/activity_stufrnt_result.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Neeta Narang/AndroidStudioProjects/StudentProgressReport/app/src/main/res/layout/activity_subject_allocations.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Neeta Narang/AndroidStudioProjects/StudentProgressReport/app/src/main/res/layout/activity_teacher_details.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Neeta Narang/AndroidStudioProjects/StudentProgressReport/app/src/main/res/layout/activity_teacher_marks.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Neeta Narang/AndroidStudioProjects/StudentProgressReport/app/src/main/res/layout/activity_teacher_page.xml" value="0.14130434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
